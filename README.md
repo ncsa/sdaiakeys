@@ -1,3 +1,3 @@
 # sdaiakeys
 
-see https://security.ncsa.illinois.edu/display/cybersec/SDAIA
+see https://wiki.ncsa.illinois.edu/display/cybersec/SDAIA
